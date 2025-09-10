@@ -2,3 +2,5 @@ add and remove users
 change the roles
 manage the Database 
 closing it(Database)
+
+opening it again
