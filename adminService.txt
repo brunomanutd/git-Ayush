@@ -3,5 +3,6 @@ change the roles
 manage the Database 
 closing it(Database)
 
-opening it again
-change 1 in my Database
+
+Changes done in DB
+
