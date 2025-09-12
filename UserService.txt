@@ -5,3 +5,5 @@ I want to be successful
 login and logout
 
 changes done
+
+lite-version changes done 2

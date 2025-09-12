@@ -6,3 +6,4 @@ closing it(Database)
 
 Changes done in DB
 
+lite-version changes done 1
